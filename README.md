@@ -1,5 +1,7 @@
 # MRI-to-CT Synthesis using GANs (Pix2Pix + NGF)
 
+[![MRI-to-CT synthesis: the 20-second video (click to play)](assets/brag.jpg)](assets/brag.mp4)
+
 This project focuses on generating **high-fidelity CT images from MRI scans** using a **Conditional GAN (Pix2Pix)** architecture enhanced with **structural regularization (NGF – Normalized Gradient Fields)**.
 
 The goal is to improve **anatomical accuracy** of the generated CT images, which is critical for **clinical applications such as radiotherapy planning**, where precise structural information is required.
